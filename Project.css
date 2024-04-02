@@ -1,0 +1,49 @@
+.Project--Dark {
+    margin:0px;
+    margin-top:45px;
+    margin-left:45px;
+    height:600px;
+    width: 600px;
+    border:2px;
+    border-radius:5px;
+    background-color:rgb(251, 247, 247);
+    color:rgb(16, 16, 16)
+  }
+  .Project--Light{
+    margin:0px;
+    margin-top:45px;
+    margin-left:45px;
+    height:600px;
+    width: 600px;
+    border:2px;
+    border-radius:5px;
+    background-color:rgb(251, 248, 248);
+    color:rgb(1, 1, 1)
+  
+  }
+
+
+  .Project--Title{
+    margin-left:10px;
+    margin-bottom: 0px;
+    font-size: 30px;
+  }
+  .Project--List>li{
+    margin-left:5px;
+    font-size: 30px;
+  }
+  .Card--Image{
+    margin-top:10px;
+    margin-left:5px;
+    height:200px;
+    width:200px;
+    border-radius:360%;
+  }
+  .Project--List{
+    margin:0px;
+    margin-bottom:5px;
+  }
+  .Project--List >li::marker{
+    color: rgb(181, 232, 242);
+    font-size: large;
+}

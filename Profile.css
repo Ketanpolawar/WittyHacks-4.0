@@ -1,0 +1,25 @@
+.Profile{
+    color: rgb(9, 9, 9);
+    background-color: rgb(246, 242, 242);
+    height:600px;
+    width:600px;
+    border-radius:30px;
+   
+}
+.Profile--Image{
+    border-radius:360%;
+    height:240px;
+    width:240px;
+    margin-left:120px;
+    margin-top:30px;
+}
+.L{
+    font-size:large;
+    margin-left: 80px;
+    font-size: 30px;
+}
+.User-id{
+    font-size:x-large;
+    margin-left:80px;
+    font-size: 30px;
+}

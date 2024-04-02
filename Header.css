@@ -1,0 +1,29 @@
+.Headerbody{
+    background-color: rgb(176, 195, 218);
+    display: flex;
+}
+
+.Logo{
+    border-radius:360px;
+    height:100px;
+    margin-bottom:10px;
+    margin-top:10px;
+    margin-left:10px;
+}
+
+.Name{
+    margin-left:40px;
+    margin-top:20px;
+    display: inline;
+    font-size: 40px;
+}
+
+.Link{
+    color:rgb(239, 241, 243);
+    margin-left:84%;
+    margin-right:60px;
+    font-size:xx-large;
+    padding-right:40px;
+    margin-top:40px;
+    font-size: 40px;
+}
